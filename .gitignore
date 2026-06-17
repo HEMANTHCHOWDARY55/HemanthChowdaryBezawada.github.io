@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+.gemini/
+.system_generated/
+browser/
+scratch/
+task.md
+implementation_plan.md
+walkthrough.md
